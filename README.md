@@ -6,9 +6,9 @@ Object detection has always been practical. There are so many things in our worl
 ## Download
 
 ### Car Image
-* trainset (... GB): [GoogleDrive](https://drive.google.com)
-* valset (... GB): [GoogleDrive](https://drive.google.com)
-* testset (... GB): [GoogleDrive](https://drive.google.com)
+* trainset (8.29 GB): [GoogleDrive](https://drive.google.com/file/d/1hwz6X-Zp7JpJL35K6P3z7k6O_PTXhUcT/view?usp=sharing)
+* valset (1.19 GB): [GoogleDrive](https://drive.google.com/file/d/1hwz6X-Zp7JpJL35K6P3z7k6O_PTXhUcT/view?usp=sharing)
+* testset (2.33 GB): [GoogleDrive](https://drive.google.com/file/d/1hwz6X-Zp7JpJL35K6P3z7k6O_PTXhUcT/view?usp=sharing)
 
 ### License Plate
 * trainset (187.3 MB): [GoogleDrive](https://drive.google.com/file/d/1ubkg7E2vGEOqS4K_quwf9Vl-i8IVpklM/view?usp=sharing)
